@@ -1,0 +1,4 @@
+tqdm
+pandas
+Mastodon.py==1.7.0
+tweepy==4.14.0
